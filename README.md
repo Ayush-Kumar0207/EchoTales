@@ -1,7 +1,12 @@
-
 # 🤖 EchoTales - AI Story & Narration Generator 📖
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://echotales.streamlit.app/)
+
 Transform a series of images into a captivating, AI-generated story with accompanying audio narration. This application uses the power of Google's Gemini model to analyze your images and weave them into a coherent narrative based on your chosen genre.
+
+**➡️ [Try the live demo!](https://echotales.streamlit.app/)**
+
+---
 
 ## ✨ Features
 
@@ -32,11 +37,11 @@ The application follows a simple workflow:
 ## 🛠️ Tech Stack
 
 * **Backend / AI Logic**: Python
-* [cite_start]**Generative AI Model**: Google Gemini (`google-genai`, `google-generativeai`) 
-* [cite_start]**Web Framework**: Streamlit 
-* [cite_start]**Text-to-Speech**: gTTS 
-* [cite_start]**Image Processing**: Pillow 
-* [cite_start]**Environment Variables**: `python-dotenv` 
+* **Generative AI Model**: Google Gemini (`google-genai`, `google-generativeai`)
+* **Web Framework**: Streamlit
+* **Text-to-Speech**: gTTS
+* **Image Processing**: Pillow
+* **Environment Variables**: `python-dotenv`
 
 ---
 
