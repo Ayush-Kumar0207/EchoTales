@@ -205,9 +205,15 @@ Follow these instructions to set up and run the project locally.
 ---
 
 ## 📂 Project Structure  
-  ├── app.py                  # Main Streamlit application file
-  ├── story_generator.py      # Core logic for interacting with Gemini API and gTTS
-  ├── requirements.txt        # Project dependencies 
-  
-  
-  └── .env                    # For storing API keys (needs to be created by you)
+  Of course. Using a **code block** will preserve the line breaks and spacing to display the file tree correctly.
+
+Here is the corrected, copyable markdown snippet for your project structure.
+
+## 📂 Project Structure
+```
+.
+├── app.py              # Main Streamlit application file
+├── story_generator.py  # Core logic for interacting with Gemini API and gTTS
+├── requirements.txt    # Project dependencies
+└── .env                # For storing API keys (needs to be created by you)
+```
