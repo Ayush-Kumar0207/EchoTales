@@ -204,11 +204,6 @@ Follow these instructions to set up and run the project locally.
 
 ---
 
-## 📂 Project Structure  
-  Of course. Using a **code block** will preserve the line breaks and spacing to display the file tree correctly.
-
-Here is the corrected, copyable markdown snippet for your project structure.
-
 ## 📂 Project Structure
 ```
 .
